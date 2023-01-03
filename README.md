@@ -1,6 +1,7 @@
 ## Hello World 🌍
 
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
+
 ## officialYash** is a ✨ _special_ ✨ repository
 
 <a href="mailto:Yasha3262@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20Me-brightgreen?style=flat-square&logo=gmail"></a>
@@ -28,7 +29,10 @@ These are the tools and languages that I have worked with and have experience ab
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss&logoColor=007ACC)
 
+---
+If you like my work on Instagram or else where, you can buy me a coffee. Thank You 😊
 
+<a href="https://www.instagram.com/gabru_jawan22/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 <!--
