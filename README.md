@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello World 🌍
+
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 ## officialYash** is a ✨ _special_ ✨ repository
 
 <a href="mailto:Yasha3262@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20Me-brightgreen?style=flat-square&logo=gmail"></a>
